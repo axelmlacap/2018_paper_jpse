@@ -1,0 +1,69 @@
+-------- GENERALES ---------
+
+Designación de categorías: full length article	OK
+
+Designar un corresponding author: dar email y dirección postal
+
+Checklist:
+
+1. Incluir archivos:
+- Para manuscrito
+  - Incluir keywords	OK
+  - Figuras con epígrafes	OK
+  - Tablas con títulos, descripción y notas al pie	OK
+  - Indicar si es necesario el color para la versión impresa
+- Abstracts gráficos / highlight files	OK
+- Supplemental files	OK
+2. Ortografía y gramática	OK
+3. Revisar referencias	LOS NOMBRES DE LOS AUTORES SON INCONSISTENTES
+4. Permisos de copyright obtenidos
+5. A competing interests statement is provided, even if the authors have no competing interests to declare
+6. Journal policies detailed in this guide have been reviewed	OK
+7. Referee suggestions and contact details provided, based on journal requirements	OK
+
+Contributors:
+Each author is required to declare his or her individual contribution to the article: all authors must have materially participated in the research and/or article preparation, so roles for all authors should be described. The statement that all authors have approved the final article should be true and included in the disclosure.
+
+Role of the funding source:
+You are requested to identify who provided financial support for the conduct of the research and/or preparation of the article and to briefly describe the role of the sponsor(s), if any, in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the article for publication. If the funding source(s) had no such involvement then this should be stated.
+"This work was supported by the National Institutes of Health [grant numbers xxxx, yyyy]; the Bill & Melinda Gates Foundation, Seattle, WA [grant number zzzz]; and the United States Institutes of Peace [grant number aaaa]."
+
+Referees:
+Please submit, with the manuscript, the names, addresses and e-mail addresses of 4 potential referees. Note that the editor retains the sole right to decide whether or not the suggested reviewers are used.
+
+Portada:	OK
+Afiliación indicada con letras en superíndices. Incluir email de autores y dirección postal de la afiliación.
+
+Highlights:	OK
+Highlights are mandatory for this journal. They consist of a short collection of bullet points that convey the core findings of the article and should be submitted in a separate editable file in the online submission system. Please use 'Highlights' in the file name and include 3 to 5 bullet points (maximum 85 characters, including spaces, per bullet point). You can view example Highlights on our information site.
+
+Keywords:	OK
+Immediately after the abstract, provide a maximum of 6 keywords, using American spelling and avoiding general and plural terms and multiple concepts (avoid, for example, 'and', 'of'). Be sparing with abbreviations: only abbreviations firmly established in the field may be eligible. These keywords will be used for indexing purposes.
+
+Provide 4 - 6 keywords taken from the AGI GeoiRef Thesaurus and place them beneath the abstract
+
+-------- FIGURAS ---------
+
+Color: RGB
+
+Tamaños:
+
+Minimal size	30 mm (85 pt)
+1 column	90 mm (255 pt)
+1.5 column	140 mm (397 pt)
+2 column	190 mm (539)
+
+
+Resolución:
+
+Halftone	300 DPI
+Combination art	500 DPI
+Line art	1000 DPI
+
+
+Formatos:
+
+Fotos (halftones/bitmap)	TIF, TIFF
+Vectorial			EPS
+Vectorial			PDF
+

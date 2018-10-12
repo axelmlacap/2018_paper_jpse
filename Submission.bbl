@@ -1,0 +1,1024 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Abou-Sayed2007}{report}{}
+    \name{author}{5}{}{%
+      {{hash=ASA}{%
+         family={Abou-Sayed},
+         familyi={A\bibinitperiod-S\bibinitperiod},
+         given={AS},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZK}{%
+         family={Zaki},
+         familyi={Z\bibinitperiod},
+         given={KS},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=SM}{%
+         family={Sarfare},
+         familyi={S\bibinitperiod},
+         given={MD},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Harris},
+         familyi={H\bibinitperiod},
+         given={MH},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASA+1}
+    \strng{fullhash}{ASAZKWGSMHM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.2118/108238-PA
+    \endverb
+    \field{title}{Produced Water Management Strategy and Water Injection Best
+  Practices: Design, Performance, and Monitoring. SPEPO 22 (1): 59-68}
+    \list{institution}{1}{%
+      {SPE-108238-PA. DOI: 10.2118/108238-PA}%
+    }
+    \field{type}{techreport}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Ali2007}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{3}{}{%
+      {{hash=AMA}{%
+         family={Ali},
+         familyi={A\bibinitperiod},
+         given={Mohammad\bibnamedelima AJ},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CPK}{%
+         family={Currie},
+         familyi={C\bibinitperiod},
+         given={Peter\bibnamedelima K},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Salman},
+         familyi={S\bibinitperiod},
+         given={Mohammad\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{AMACPKSMJ+1}
+    \strng{fullhash}{AMACPKSMJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{booktitle}{SPE Middle East Oil and Gas Show and Conference}
+    \verb{doi}
+    \verb 10.2118/104608-MS
+    \endverb
+    \field{title}{Permeability Damage due to Water Injection Containing Oil
+  Droplet and Solid Particles at Residual Oil Saturation.}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Ali2009}{article}{}
+    \true{moreauthor}
+    \name{author}{3}{}{%
+      {{hash=AMA}{%
+         family={Ali},
+         familyi={A\bibinitperiod},
+         given={Mohammad\bibnamedelima AJ},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CPK}{%
+         family={Currie},
+         familyi={C\bibinitperiod},
+         given={Peter\bibnamedelima K},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Salman},
+         familyi={S\bibinitperiod},
+         given={Mohammad\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{AMACPKSMJ+1}
+    \strng{fullhash}{AMACPKSMJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.2118/107619-PA
+    \endverb
+    \field{number}{01}
+    \field{pages}{117\bibrangedash 123}
+    \field{title}{The effect of residual oil on deep-bed filtration of
+  particles in injection water}
+    \field{volume}{24}
+    \field{journaltitle}{SPE Production \& Operations}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Bennion1998}{article}{}
+    \true{moreauthor}
+    \name{author}{4}{}{%
+      {{hash=BD}{%
+         family={Bennion},
+         familyi={B\bibinitperiod},
+         given={DB},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bennion},
+         familyi={B\bibinitperiod},
+         given={DW},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Thomas},
+         familyi={T\bibinitperiod},
+         given={FB},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bietz},
+         familyi={B\bibinitperiod},
+         given={RF},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Petroleum Society of Canada}%
+    }
+    \strng{namehash}{BD+1}
+    \strng{fullhash}{BDBDTFBR+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.2118/98-06-06
+    \endverb
+    \field{number}{06}
+    \field{title}{Injection water quality-a key factor to successful
+  waterflooding}
+    \field{volume}{37}
+    \field{journaltitle}{Journal of Canadian Petroleum Technology}
+    \field{year}{1998}
+  \endentry
+
+  \entry{vanderBroek1999}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{5}{}{%
+      {{hash=VdBW}{%
+         prefix={Van\bibnamedelima den},
+         prefixi={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Broek},
+         familyi={B\bibinitperiod},
+         given={WMGT},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bruin},
+         familyi={B\bibinitperiod},
+         given={JN},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Tran},
+         familyi={T\bibinitperiod},
+         given={TK},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VdZM}{%
+         prefix={Van\bibnamedelima der},
+         prefixi={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Zande},
+         familyi={Z\bibinitperiod},
+         given={MJ},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VdMH}{%
+         prefix={Van\bibnamedelima der},
+         prefixi={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Meulen},
+         familyi={M\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{BWVd+1}
+    \strng{fullhash}{BWVdBJTTZMVdMHVd+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{SPE European formation damage conference}
+    \verb{doi}
+    \verb 10.2118/54769-MS
+    \endverb
+    \field{title}{Core-flow experiments with oil and solids containing water}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Buret2010}{article}{}
+    \true{moreauthor}
+    \name{author}{3}{}{%
+      {{hash=BS}{%
+         family={Buret},
+         familyi={B\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NL}{%
+         family={Nabzar},
+         familyi={N\bibinitperiod},
+         given={Lahcen},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jada},
+         familyi={J\bibinitperiod},
+         given={Amane},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{BSNLJA+1}
+    \strng{fullhash}{BSNLJA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.2118/122060-PA
+    \endverb
+    \field{number}{02}
+    \field{pages}{557\bibrangedash 568}
+    \field{title}{Water quality and well injectivity: do residual oil-in-water
+  emulsions matter?}
+    \field{volume}{15}
+    \field{journaltitle}{SPE Journal}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Chaveteau1998}{article}{}
+    \true{moreauthor}
+    \name{author}{3}{}{%
+      {{hash=CG}{%
+         family={Chauveteau},
+         familyi={C\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=NL}{%
+         family={Nabzar},
+         familyi={N\bibinitperiod},
+         given={L},
+         giveni={L},
+      }}%
+      {{hash=CJ}{%
+         family={Coste},
+         familyi={C\bibinitperiod},
+         given={JP},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{CGNLCJ+1}
+    \strng{fullhash}{CGNLCJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{SPE Formation Damage Control Conference}
+    \verb{doi}
+    \verb 10.2118/39463-MS
+    \endverb
+    \field{title}{Physics and modeling of permeability damage induced by
+  particle deposition}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Domene2017}{article}{}
+    \name{author}{6}{}{%
+      {{hash=DEA}{%
+         family={Domené},
+         familyi={D\bibinitperiod},
+         given={Esteban\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Drew},
+         familyi={D\bibinitperiod},
+         given={Schiltz},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Dinesh},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MOE}{%
+         family={Martínez},
+         familyi={M\bibinitperiod},
+         given={Oscar\bibnamedelima E.},
+         giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=RJG}{%
+         family={Rocca},
+         familyi={R\bibinitperiod},
+         given={Jorge\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=MCS}{%
+         family={Menoni},
+         familyi={M\bibinitperiod},
+         given={Carmen\bibnamedelima S.},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DEA+1}
+    \strng{fullhash}{DEADSPDMOERJGMCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Thin Film Absorption Characterization by Focus Error Thermal
+  Lensing}
+    \field{journaltitle}{Review of Scientific Instruments}
+    \field{year}{2017}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Downare1995}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DTD}{%
+         family={Downare},
+         familyi={D\bibinitperiod},
+         given={Taggart\bibnamedelima D.},
+         giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MOC}{%
+         family={Mullins},
+         familyi={M\bibinitperiod},
+         given={Oliver\bibnamedelima C.},
+         giveni={O\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DTDMOC1}
+    \strng{fullhash}{DTDMOC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1366/0003702953964462
+    \endverb
+    \field{issn}{0003-7028}
+    \field{number}{6}
+    \field{pages}{754\bibrangedash 764}
+    \field{title}{Visible and {{Near}}-{{Infrared Fluorescence}} of {{Crude
+  Oils}}}
+    \field{volume}{49}
+    \field{journaltitle}{Applied Spectroscopy}
+    \field{day}{01}
+    \field{month}{06}
+    \field{year}{1995}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Franko2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FM}{%
+         family={Franko},
+         familyi={F\bibinitperiod},
+         given={Mladen},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TCD}{%
+         family={Tran},
+         familyi={T\bibinitperiod},
+         given={Chieu\bibnamedelima D.},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+  \keyw{biomedical,environmental,kinetics,lasers,microfluidics,near-infrared,organized
+  media,thermal lens}
+    \strng{namehash}{FMTCD1}
+    \strng{fullhash}{FMTCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1002/9780470027318.a9079
+    \endverb
+    \field{title}{Thermal {{Lens Spectroscopy}}}
+    \field{journaltitle}{Encyclopedia of Analytical Chemistry}
+    \field{year}{2010}
+    \warn{\item Can't use 'journaltitle' + 'journal'}
+  \endentry
+
+  \entry{Freeborn1998}{article}{}
+    \name{author}{5}{}{%
+      {{hash=FSS}{%
+         family={Freeborn},
+         familyi={F\bibinitperiod},
+         given={S.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hannigan},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Greig},
+         familyi={G\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Suttie},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MHA}{%
+         family={MacKenzie},
+         familyi={M\bibinitperiod},
+         given={H.\bibnamedelima A.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FSS+1}
+    \strng{fullhash}{FSSHJGFSRAMHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1063/1.1149204
+    \endverb
+    \field{issn}{0034-6748}
+    \field{number}{11}
+    \field{pages}{3948\bibrangedash 3952}
+    \field{title}{A {{Pulsed Photoacoustic Instrument}} for the {{Detection}}
+  of {{Crude Oil Concentrations}} in {{Produced Water}}}
+    \field{volume}{69}
+    \field{journaltitle}{Review of Scientific Instruments}
+    \field{day}{01}
+    \field{month}{11}
+    \field{year}{1998}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Furtado2005}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{5}{}{%
+      {{hash=FCJA}{%
+         family={Furtado},
+         familyi={F\bibinitperiod},
+         given={Claudio Jose\bibnamedelima Alves},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Siqueira},
+         familyi={S\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=dSALS}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Souza},
+         familyi={S\bibinitperiod},
+         given={Antonio Luiz\bibnamedelima Serra},
+         giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=CAC}{%
+         family={Correa},
+         familyi={C\bibinitperiod},
+         given={Antonio\bibnamedelima Claudio},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mendes},
+         familyi={M\bibinitperiod},
+         given={Roberta},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{FCJA+1}
+    \strng{fullhash}{FCJASASALSdCACMR+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{booktitle}{SPE Latin American and Caribbean Petroleum Engineering
+  Conference}
+    \verb{doi}
+    \verb 10.2118/94705-MS
+    \endverb
+    \field{title}{Produced water reinjection in Petrobras fields: Challenges
+  and perspectives}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Gordon1965}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GJC}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LRCC}{%
+         family={Leite},
+         familyi={L\bibinitperiod},
+         given={R.\bibnamedelima C.\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=MRS}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=PSPS}{%
+         family={Porto},
+         familyi={P\bibinitperiod},
+         given={S.\bibnamedelima P.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=WJR}{%
+         family={Whinnery},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJC+1}
+    \strng{fullhash}{GJCLRCCMRSPSPSWJR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \verb{doi}
+    \verb 10.1063/1.1713919
+    \endverb
+    \field{issn}{0021-8979}
+    \field{number}{1}
+    \field{pages}{3\bibrangedash 8}
+    \field{title}{Long‐{{Transient Effects}} in {{Lasers}} with {{Inserted
+  Liquid Samples}}}
+    \field{volume}{36}
+    \field{journaltitle}{Journal of Applied Physics}
+    \field{day}{01}
+    \field{month}{01}
+    \field{year}{1965}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{He2003}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HLM}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={L.\bibnamedelima M},
+         giveni={L\bibinitperiod\bibinitdelim M},
+      }}%
+      {{hash=KPLL}{%
+         family={Kear-Padilla},
+         familyi={K\bibinitperiod-P\bibinitperiod},
+         given={L.\bibnamedelima L},
+         giveni={L\bibinitperiod\bibinitdelim L},
+      }}%
+      {{hash=LSH}{%
+         family={Lieberman},
+         familyi={L\bibinitperiod},
+         given={S.\bibnamedelima H},
+         giveni={S\bibinitperiod\bibinitdelim H},
+      }}%
+      {{hash=AJM}{%
+         family={Andrews},
+         familyi={A\bibinitperiod},
+         given={J.\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M},
+      }}%
+    }
+    \keyw{Artificial neural network,Fluorescence,Light scattering,Oil
+  contamination,Oil content monitor,Petroleum products}
+    \strng{namehash}{HLM+1}
+    \strng{fullhash}{HLMKPLLLSHAJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1016/S0003-2670(02)01471-X
+    \endverb
+    \field{issn}{0003-2670}
+    \field{number}{2}
+    \field{pages}{245\bibrangedash 258}
+    \field{title}{Rapid in {{Situ Determination}} of {{Total Oil
+  Concentration}} in {{Water Using Ultraviolet Fluorescence}} and {{Light
+  Scattering Coupled}} with {{Artificial Neural Networks}}}
+    \field{volume}{478}
+    \field{journaltitle}{Analytica Chimica Acta}
+    \field{day}{22}
+    \field{month}{02}
+    \field{year}{2003}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Kolomijeca2011}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{6}{}{%
+      {{hash=KA}{%
+         family={Kolomijeca},
+         familyi={K\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=KYH}{%
+         family={Kwon},
+         familyi={K\bibinitperiod},
+         given={Y-H},
+         giveni={Y\bibinitperiod-H\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sowoidnich},
+         familyi={S\bibinitperiod},
+         given={K},
+         giveni={K},
+      }}%
+      {{hash=KHD}{%
+         family={Kronfeldt},
+         familyi={K\bibinitperiod},
+         given={H-D},
+         giveni={H\bibinitperiod-D\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Prien},
+         familyi={P\bibinitperiod},
+         given={RD},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SBD}{%
+         family={Schulz-Bull},
+         familyi={S\bibinitperiod-B\bibinitperiod},
+         given={DE},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{organization}{2}{%
+      {International Society of Offshore}%
+      {Polar Engineers}%
+    }
+    \strng{namehash}{KA+1}
+    \strng{fullhash}{KAKYHSKKHDPRSBD+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{booktitle}{The Twenty-first International Offshore and Polar
+  Engineering Conference}
+    \field{title}{High sensitive Raman sensor for continuous in-situ detection
+  of PAHs}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Liu2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LM}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Mingqiang},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Franko},
+         familyi={F\bibinitperiod},
+         given={Mladen},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LMFM1}
+    \strng{fullhash}{LMFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1007/s10765-016-2072-y
+    \endverb
+    \field{issn}{0195-928X, 1572-9567}
+    \field{number}{7}
+    \field{pages}{67}
+    \field{shorttitle}{Thermal {{Lens Spectrometry}}}
+    \field{title}{Thermal {{Lens Spectrometry}}: {{Still}} a {{Technique}} on
+  the {{Horizon}}?}
+    \field{volume}{37}
+    \field{journaltitle}{International Journal of Thermophysics}
+    \field{day}{01}
+    \field{month}{07}
+    \field{year}{2016}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Parker1987}{book}{}
+    \name{author}{2}{}{%
+      {{hash=PH}{%
+         family={Parker},
+         familyi={P\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PGD}{%
+         family={Pitt},
+         familyi={P\bibinitperiod},
+         given={G.\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{Springer}}%
+    }
+    \strng{namehash}{PHPGD1}
+    \strng{fullhash}{PHPGD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{edition}{1ra edición}
+    \field{title}{Pollution {{Control Instrumentation}} for {{Oil}} and
+  {{Effluents}}}
+    \field{year}{1987}
+    \warn{\item Can't use 'date' + 'year'}
+  \endentry
+
+  \entry{Proskurnin2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=PMA}{%
+         family={Proskurnin},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VD}{%
+         family={Volkov},
+         familyi={V\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GTA}{%
+         family={Gor'kova},
+         familyi={G\bibinitperiod},
+         given={T.\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BSN}{%
+         family={Bendrysheva},
+         familyi={B\bibinitperiod},
+         given={S.\bibnamedelima N.},
+         giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SAP}{%
+         family={Smirnova},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=NDA}{%
+         family={Nedosekind},
+         familyi={N\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PMA+1}
+    \strng{fullhash}{PMAVDGTABSNSAPNDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{number}{3}
+    \field{pages}{249\bibrangedash 276}
+    \field{title}{Advances in Thermal Lens Spectrometry}
+    \field{volume}{70}
+    \field{journaltitle}{Journal of Analytical Chemistry}
+    \field{month}{03}
+    \field{year}{2015}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Reousseau2008}{article}{}
+    \true{moreauthor}
+    \name{author}{3}{}{%
+      {{hash=RD}{%
+         family={Rousseau},
+         familyi={R\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Latifa},
+         familyi={L\bibinitperiod},
+         given={Hadi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=NL}{%
+         family={Nabzar},
+         familyi={N\bibinitperiod},
+         given={Lahcen},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Society of Petroleum Engineers}%
+    }
+    \strng{namehash}{RDLHNL+1}
+    \strng{fullhash}{RDLHNL+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \verb{doi}
+    \verb 10.2118/107666-PA
+    \endverb
+    \field{number}{04}
+    \field{pages}{525\bibrangedash 531}
+    \field{title}{Injectivity decline from produced-water reinjection: new
+  insights on in-depth particle-deposition mechanisms}
+    \field{volume}{23}
+    \field{journaltitle}{SPE Production \& Operations}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Sikovec1996}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SM}{%
+         family={Sikovec},
+         familyi={S\bibinitperiod},
+         given={Mateja},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Franko},
+         familyi={F\bibinitperiod},
+         given={Mladen},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CFG}{%
+         family={Cruz},
+         familyi={C\bibinitperiod},
+         given={Federico\bibnamedelima G.},
+         giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=KSA}{%
+         family={Katz},
+         familyi={K\bibinitperiod},
+         given={Sidney\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Atomic absorption spectrometry,Chromium,Environmental
+  analysis,Thermal lens spectrometry,Timber extracts}
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMFMCFGKSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1016/0003-2670(96)00175-4
+    \endverb
+    \field{issn}{0003-2670}
+    \field{number}{2}
+    \field{pages}{245\bibrangedash 250}
+    \field{title}{Thermal Lens Spectrometric Determination of Hexavalent
+  Chromium}
+    \field{volume}{330}
+    \field{journaltitle}{Analytica Chimica Acta}
+    \field{day}{10}
+    \field{month}{09}
+    \field{year}{1996}
+    \warn{\item Can't use 'journaltitle' + 'journal' \item Can't use 'date' +
+  'year'}
+  \endentry
+
+  \entry{Souza2005}{inproceedings}{}
+    \true{moreauthor}
+    \name{author}{6}{}{%
+      {{hash=SA}{%
+         family={Souza},
+         familyi={S\bibinitperiod},
+         given={ALS},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Figueiredo},
+         familyi={F\bibinitperiod},
+         given={MW},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kuchpil},
+         familyi={K\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+      {{hash=BM}{%
+         family={Bezerra},
+         familyi={B\bibinitperiod},
+         given={MC},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Siqueira},
+         familyi={S\bibinitperiod},
+         given={AG},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Furtado},
+         familyi={F\bibinitperiod},
+         given={CA},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Offshore Technology Conference}%
+    }
+    \strng{namehash}{SA+1}
+    \strng{fullhash}{SAFMKCBMSAFC+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Offshore Technology Conference}
+    \verb{doi}
+    \verb 10.4043/17258-MS
+    \endverb
+    \field{title}{Water management in petrobras: developments and challenges}
+    \field{year}{2005}
+  \endentry
+\enddatalist
+\endinput

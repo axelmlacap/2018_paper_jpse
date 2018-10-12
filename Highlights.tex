@@ -1,0 +1,91 @@
+\documentclass[10pt,authoryear,onecolumn]{article}
+\usepackage[utf8]{inputenc}
+
+
+\usepackage[pagebackref=true,colorlinks=true]{hyperref}	% Links
+\usepackage{amsmath}
+\usepackage{siunitx}	% Valores con unidades
+	\sisetup{range-phrase = --}
+	\sisetup{separate-uncertainty = true}
+	\sisetup{allow-number-unit-breaks = true}
+	\sisetup{tight-spacing = true}
+\usepackage{soulutf8}		% Resaltado, subrayado y demás
+	\DeclareRobustCommand{\hlcolor}[2][yellow]{{\sethlcolor{#1}\hl{#2}}}
+
+\usepackage{amssymb}
+\DeclareSIUnit\ppm{ppm}
+\DeclareSIUnit\pixel{px}
+\DeclareSIUnit\arb{AU}
+
+\newcommand{\I}{\mathrm{i}}
+\newcommand{\FE}{\textit{FE}}
+\newcommand{\Sum}{\textit{Sum}}
+\newcommand{\R}{\textit{R}}
+\newcommand{\DefX}{\textit{DefX}}
+\newcommand{\DefY}{\textit{DefY}}
+\newcommand{\low}[1]{\textsubscript{#1}} % Subíndices en modo texto
+
+
+% No importar las sigiuentes librerías en caso de usar la plantilla de Elsevier
+\usepackage{authblk}
+\usepackage{natbib,hyperref}
+\usepackage{graphicx}
+
+
+\begin{document}
+
+
+%% Formato Elsevier
+
+
+%\journal{Journal of Petroleum Science and Engineering}
+%
+%\begin{frontmatter}
+%
+%\title{Online oil-in-water and suspended solids measurement device based on thermal lens spectrometry and forward scattering}
+%
+%\author[AddressDF]{Axel Lacapmesure\corref{Corr1}} \ead{axel.lacapmesure@gmail.com}
+%\author[AddressYTEC]{Darío Kunik}
+%\author[AddressFIUBA]{Oscar E. Martínez}
+%
+%\address[AddressDF]{Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina}
+%\address[AddressYTEC]{YPF Tecnología S.A., Buenos Aires, Argentina}
+%\address[AddressFIUBA]{Laboratorio de Fotónica, Facultad de Ingeniería, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina}
+%
+%\cortext[Corr1]{Corresponding author}
+%
+%
+%
+%\begin{abstract}
+%
+%\end{abstract}
+%
+%
+%\begin{keyword}
+%
+%\end{keyword}
+%
+%\end{frontmatter}
+
+%% Formato típico
+
+\title{Online oil-in-water and suspended solids monitor based on thermal lens spectrometry and forward scattering}
+\author{}
+\date{}
+
+\maketitle
+
+\section*{Highlights}
+
+\begin{itemize}
+	\item Fast measurements with no sample preparation needed.
+	\item \SI{0.02}{\ppm} resolution in oil concentration measurements.
+	\item Suspended solids and oil droplets are detected separately through signal processing.
+	\item Particles of different sizes are distinguished by peak height distribution.
+	\item Particles concentrations are obtained from interarrival times.
+	\item The device proves ideal as an online monitor incorporated into injection flowline.
+\end{itemize}
+
+\end{document}
+
+\endinput
